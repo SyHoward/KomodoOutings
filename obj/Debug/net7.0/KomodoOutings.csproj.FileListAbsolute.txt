@@ -1,0 +1,14 @@
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\KomodoOutings\bin\Debug\net7.0\KomodoOutings.exe
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\KomodoOutings\bin\Debug\net7.0\KomodoOutings.deps.json
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\KomodoOutings\bin\Debug\net7.0\KomodoOutings.runtimeconfig.json
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\KomodoOutings\bin\Debug\net7.0\KomodoOutings.dll
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\KomodoOutings\bin\Debug\net7.0\KomodoOutings.pdb
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\KomodoOutings\obj\Debug\net7.0\KomodoOutings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\KomodoOutings\obj\Debug\net7.0\KomodoOutings.AssemblyInfoInputs.cache
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\KomodoOutings\obj\Debug\net7.0\KomodoOutings.AssemblyInfo.cs
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\KomodoOutings\obj\Debug\net7.0\KomodoOutings.csproj.CoreCompileInputs.cache
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\KomodoOutings\obj\Debug\net7.0\KomodoOutings.dll
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\KomodoOutings\obj\Debug\net7.0\refint\KomodoOutings.dll
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\KomodoOutings\obj\Debug\net7.0\KomodoOutings.pdb
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\KomodoOutings\obj\Debug\net7.0\KomodoOutings.genruntimeconfig.cache
+C:\Users\Syman\OneDrive\Desktop\Projects\ConsoleApplications\KomodoOutings\obj\Debug\net7.0\ref\KomodoOutings.dll
